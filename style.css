@@ -1,0 +1,20 @@
+body {
+    background-color: greenyellow;
+}
+
+.main_div button {
+    color: brown;
+    width: 250px;
+    height: 150px;
+    font-size: 30px;
+}
+
+.footer {
+    position: fixed;
+    color: teal;
+    bottom: 0;
+    width: 100%;
+    font-size: 25px;
+    background-color: azure;
+    text-align: center;
+}
